@@ -17,7 +17,7 @@ awww img ~/.pictures/background/anime_skull.png &
 vicinae server >/dev/null 2>&1 &
 
 # Bar
-waybar >/dev/null 2>&1 &
+# waybar >/dev/null 2>&1 &
 
 # Brightness control
 brightnessctl s 255 >/dev/null 2>&1
